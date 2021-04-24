@@ -11,12 +11,13 @@ compilers. Supported languages are:
 - [Go](https://golang.org/) (using `go` or `gccgo`),
 - [Swift](https://swift.org/) (using `swiftc`),
 - [Rust](https://www.rust-lang.org/) (using `rustc`),
-- [Julia](https://julialang.org/) (using `julia`).
+- [Julia](https://julialang.org/) (using `julia`),
 - [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)) (using `gnatgcc`),
 - [Zig](https://ziglang.org/) (using `zig`), and
 - [V](https://vlang.io/) (using `v`),
 - [Vox](https://github.com/MrSmith33/vox) (using `vox`),
 - [C3](https://github.com/c3lang/c3c) (using `c3c`),
+- [Nim](https://nim-lang.org) (using `Nim`),
 
 ## Languages with Bytecode Compilers:
 
